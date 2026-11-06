@@ -1,0 +1,4 @@
+- [x] Clean the supplied portrait so no hiring graphic remains.
+- [x] Replace the home screen with Eaman Mansha’s portfolio and responsive sections.
+- [ ] Check the page in preview and run the existing route test.
+- [ ] Re-read the roadmap and close completed tasks.
